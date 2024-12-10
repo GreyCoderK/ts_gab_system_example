@@ -1,0 +1,11 @@
+export const EXPIRE_MESSAGE="Expired session";
+export const PROVIDE_CARD="Provide a valid card";
+export const PROVIDE_COMPTE="Provide a valid account"
+export const CARD_DISABLE="Your card is disable";
+export const SOLDE_MESSAGE="Balance retrieved successfully";
+export const AUTH_FAIL= "Authentification fail";
+export const AUTH_SUCCESS="Authentification success";
+export const WITHDRAW_MESSAGE="Withdraw done successfully";
+export const INSUFISANT_MESSAGE="Insuffisant credit";
+export const DEPOSIT_MESSAGE="Deposit done successfully";
+export const HISTORY_MESSAGE="Transaction log retrieved successfully";
