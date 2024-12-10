@@ -6,7 +6,7 @@ npm update
 npm start
 ```
 
-Pour avoir [modifier/ajouter](./src/config/configDependenciesProvider) les information sur le gab ou les cartes aller dans `./src/config/configDependenciesProvider`
+Pour avoir [modifier/ajouter](./backend/src/config/configDependenciesProvider.ts) les information sur le gab ou les cartes aller dans `./src/config/configDependenciesProvider.ts`. ce fichier contient ma BD en mémoire que j'utilise pour mon example
 
 Pour le frontend lancer `index.html` dans un navigateur
 
